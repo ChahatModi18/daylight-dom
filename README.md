@@ -4,6 +4,14 @@ An interactive, responsive web application demonstrating advanced client-side **
 
 ---
 
+## 🌐 Live Demos & 1-Click Import
+
+- 🚀 **Live Demo (GitHub Pages):** [https://chahatmodi18.github.io/daylight-dom/](https://chahatmodi18.github.io/daylight-dom/)
+- ⚡ **Deploy to Vercel (Import from GitHub):** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChahatModi18%2Fdaylight-dom)
+- 💎 **Deploy to Netlify (Import from GitHub):** [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FChahatModi18%2Fdaylight-dom)
+
+---
+
 ## 🎯 Project Aim
 
 > **Aim:** Design and implement an interactive web page using JavaScript, DOM manipulation, and AI-generated scripts.
@@ -81,9 +89,8 @@ Add touch event handling to the Daylight DOM carousel for mobile swipe gestures.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started Locally
 
-### Run Locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ChahatModi18/daylight-dom.git
@@ -92,24 +99,7 @@ Add touch event handling to the Daylight DOM carousel for mobile swipe gestures.
    ```bash
    cd daylight-dom
    ```
-3. Open `index.html` directly in any web browser, or run a local static server:
-   ```bash
-   npx serve .
-   ```
-
----
-
-## 🌐 Deployment Guide
-
-### Deploying to Vercel:
-1. Log in to [vercel.com](https://vercel.com).
-2. Click **Add New Project** and select `ChahatModi18/daylight-dom`.
-3. Set Root Directory to `./` and deploy.
-
-### Deploying to Netlify:
-1. Log in to [netlify.com](https://www.netlify.com).
-2. Select **Add new site** > **Import an existing project** > **GitHub**.
-3. Choose `ChahatModi18/daylight-dom` and deploy.
+3. Open `index.html` directly in any web browser.
 
 ---
 
